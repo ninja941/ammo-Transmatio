@@ -1,0 +1,1 @@
+Activating the env - source projectaria_gen2_python_env/bin/activate

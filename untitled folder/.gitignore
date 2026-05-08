@@ -1,0 +1,6 @@
+.env
+Outputs/
+Inputs/
+python3/
+projectaria_gen2_python_env/
+__pycache__/
