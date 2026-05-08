@@ -1,0 +1,281 @@
+{
+  "document_type": "manual",
+  "page_count_processed": 2,
+  "page_summary": "Page 1: Laminate Activity Table with standard or short adjustable legs; assembly instructions and safety warnings are provided. Page 2: This page shows steps to assemble a table using the table top, silver plate, legs, and a support bar.",
+  "instruction_steps": [],
+  "parts_involved": [
+    "TABLE TOP",
+    "SILVER PLATE",
+    "LEG",
+    "SUPPORT BAR"
+  ],
+  "inventory": [
+    {
+      "part_label": "TABLE TOP",
+      "used_in_steps": [],
+      "inferred_function": "Provides a flat, stable surface to support objects, components, or assemblies during setup, processing, or measurement; acts as the top surface of a table or workstation.",
+      "function_rationale": "The label TABLE TOP denotes the upper surface of a table-like assembly. In typical instructions, a table top serves as the primary surface onto which items are placed, aligned, or secured. Without steps mentioning it, we infer its role as the surface component that supports other parts or operations.",
+      "one_sentence_summary": "Flat, large rounded-rectangle top surface that is smooth, featureless, and serves as the primary support surface.",
+      "shape": "rounded rectangle",
+      "size_relative": "large compared to other small components",
+      "thickness_or_depth": "thin to moderate (not clearly measurable from image)",
+      "edge_profile": "rounded corners; smooth edge",
+      "surface_texture": "flat and featureless, smooth",
+      "protrusions": [],
+      "grooves_slots_holes": [],
+      "symmetry": "approximately symmetric along both axes",
+      "orientation_cues": [],
+      "distinctive_landmarks": [
+        "flat surface",
+        "rounded corners",
+        "smooth edge",
+        "featureless top surface"
+      ],
+      "distinguish_from_similar_parts": [
+        {
+          "other_part": "TABLE LEG",
+          "differences": [
+            "more three-dimensional",
+            "likely perforated or hollow",
+            "not a flat top surface"
+          ]
+        },
+        {
+          "other_part": "WORKBENCH TOP",
+          "differences": [
+            "simpler, smooth edge",
+            "lacks additional features or grooves compared to a workbench top"
+          ]
+        },
+        {
+          "other_part": "SURFACE PLATE",
+          "differences": [
+            "generally precisely flat with uniform surface for metrology",
+            "may have a different, possibly smaller or more uniform edge profile"
+          ]
+        },
+        {
+          "other_part": "TABLE SURFACE",
+          "differences": [
+            "terminology overlaps; TABLE TOP is specifically the upper plate, but TABLE SURFACE may imply the same or a variant; here TABLE TOP is described as flat with smooth edges and lacks holes"
+          ]
+        },
+        {
+          "other_part": "LINER OR PANEL (top surface)",
+          "differences": [
+            "typically thinner and may be used as a cover; may not be a full table-size surface"
+          ]
+        }
+      ],
+      "action_relevant_notes": [
+        "Use as the primary horizontal base for placing items during setup/measurement.",
+        "Identify by flatness and smooth, featureless top; feel for rounded corners and uniform thickness.",
+        "If comparing to parts with holes or perforations, the TABLE TOP should feel solid and without openings."
+      ],
+      "uncertainties": [
+        "Exact thickness cannot be measured from the image",
+        "Edge chamfers or bevels not clearly visible in crop"
+      ],
+      "bbox_xyxy": [
+        198,
+        443,
+        558,
+        573
+      ],
+      "localization_confidence": "high",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaAAAACWCAIAAAAXAMsKAAAONklEQVR4nO3dXYhV5R7H8fW+134bxxnTlBwcGyUz8QUh0KirbqobUZLAEoKwICy8MIhACkrrPggiyuiqIJDehIRCSTIzM1KhLsbCkXR0xpm919rrfR3a/8NijqPDOafZjvP4/VwMM8Nm7zXO+Nv/53n+z7P0PM81AFCRMdMXAACdQsABUBYBB0BZBBwAZRFwAJRFwAFQFgEHQFkEHABlEXAAlEXAAVAWAQdAWQQcAGURcACURcABUBYBB0BZBBwAZRFwAJRFwAFQFgEHQFkEHABlEXAAlEXAAVAWAQdAWQQcAGURcACURcABUBYBB0BZBBwAZRFwAJRFwAFQFgEHQFkEHABlEXAAlEXAAVAWAQdAWQQcAGURcACURcABUBYBB0BZBBwAZRFwAJRFwAFQFgEHQFkEHABlEXAAlEXAAVAWAQdAWQQcAGURcACURcABUBYBB0BZBBwAZRFwAJRFwAFQFgEHQFkEHABlEXAAlEXAAVAWAQdAWQQcAGURcACURcABUBYBB0BZBBwAZRFwAJRFwAFQFgEHQFmdCrg8z9M0zfNc07Qsyzr0KgBmuyRJ8jb5Msuy4su0rXikfH/ig/M8nzperE5csURbnue6rssVGIYhHzvxcgBmryzLTNPM2q6JCAk70zQl6SRPjLY4jm3bDsPQtu0pnrwjiSPRJi+fJIlpmtRxAK7LcZw4jotyTNf1LMviOM6yzLZty7KkiJMEzPM8jmMpoZIk+TvCDEM+uXkBZ1mWruvyuWSz/AAAMFmapoZhOI5TVHASIBJtUrWVSiXL+veIM8syx3Emjl5vasBJDIdh6LquRFsYhoxPAUwmaaXruu/7xn+SYalMcEnJVsx9aZomg1Nd14vgm+zvMa023aIosiwry7Jz587Ztu26rmEYd9xxx7S/EIDZLggCx3FkfCrzWqZpSrplWTYyMuL7fr1eD4KgVCrNmTNHHimpommaTMYVQ8abEXBSwfm+/+STTw4PD6dpun379h07dkz7CwFQY3zaaDTq9bqu6xJkftv27dubzabjOK1WS0q2Wq22a9eujRs3WpYl2ZXn+RTrDFbnln5PnDhx/PjxoaGhSqXy/fffP/3001OvdwC4bZVKJV3XoygqlUrDw8ObN29uNpu//vqrZVlJkhQrrYZhnDlz5r333nvwwQezLJORYgfn4IoQlSSWtQ+ZFNy7d+9ff/1lGEar1apUKjeqIQHczoz2aNS27SKqXnzxxVOnTp0+fVpyTRZJ9bY4jv/8889t27b9+OOPMvU29VLDNFRwRaJJO4isnD7++ONHjhwxTTOKomq1WjSLAMBEaZpKOEhv2bJly4aHh5vNpnSQBEHgum6e51EUFcsLV65ceeyxx7799tulS5dOvXo5DRVcFEWapl2+fPnkyZM//PDD8PDwc88999lnn0Vt5XLZ9/1qtfrfrOkCuN1YliVTbJqmXb16dXBwUEo5x3F6enref//9AwcOHD169O233+7t7ZUoDMPQ9/0NGzZcvHhRJuxu+OT/5MqyLGu1WtVq9eTJk7t37z5y5EixSaunp2dsbEy68uRhtIkAuC5p4k2SZP369aZpep43d+7carV6+vTpOI67urryPF+5cuUff/zx5ptvSuOIhFoYhnmeVyqVjlRwhmFUq9U4jj3Pi+M4bDMMw7Ksy5cvR1Hkum6SJFLEMQcHYDLf9yuVimmajuOcP3/eNM08z0dGRjRNc123u7tblllt23799ddfeuklaYuzbbtcLn/00UdBEIyPj2udCDgp1izL6mqrVquu60oYS5dKEATValU+dqIfBcBsV6lUDMO4ePHipk2b0jSVNhHZumDbtuxwkLGg7/syFrRtW3qAZSVzigruHw1RpVZM03TFihVvvfXWzz//nKZpd3d3vV7fs2fPsWPHgjbZLksFB2AyWYGcP3/+N998Iy1vYRiWy+Vdu3a1Wq1yuSx7FUzTbDabSZLYth0EgWmarVZr/vz5XV1dUyxgTk8fnKx9DAwMWJYVBEEcx/39/ceOHZNoS5JE13Wp9abl5QAowzTNOI6bzWa5XC4Gm7quNxqNcrksO9ml3811XcuywjCUyEvTtF6vG4bRbDbr9fp1n/yfJk6xEawIUdd1bdv2fV+WTcMwlI+0iQCYTPZa2bZdNJNJO4hMxqVp6jiOtPi2Wi3f9/M8L5VKURRlWdZsNtM07erq0m6AkgrATJIW39HR0ZUrV46OjkphVCqVFi9eLMO+LMtkh0PRchuGobSSLFmyJIqijg9RAeD/I4nW19f37rvvVioVqePSNL3rrrsk4GSuP4oiz/OazaYEYhzHuq4/++yzlUqlaACejIADMJOk/kqSZNmyZbIry7btOI4Nw9B1XWbwZbj64YcffvrppzKtL6ury5Ytq9frU8zvc4Y4gJlUHM8rvSDyzeImB0UPxtmzZ0+dOiWPkbPLH3300eXLl0+8RcNkBByAmSS76KX3Tc4ol7CTFjQpzX777bdXX3314MGDMmLVdX3r1q379u2r1+udPU0EAP4JGX5O/I70hUixluf52bNnX3nllS+++EIOtsyybMuWLW+88cbSpUtly+oUT84cHIAZJpWarIfKmSLF4SKDg4O7d+/+6quvZGdUnudbt2597bXXFi9efM0tBK+LCg7ATCpm2WRVQfbeR1Gk6/rQ0NDOnTu//PLL4jY0mzdv3rNnT39/v3xHjjKa4iAPAg7ATJJdpcXZ5c1m02y7cuXKtm3bvv76a5mGkya49evX9/f3ywyd7GOd+pakDFEBzCQp3+SAENkK1Wg0Nm3a1Gg0Tpw4IcsOcRwvWLBgx44dW7duLY4v9zyvWq1OvcmdgAMwk6IoKu6IKn1wjuMcPnzYcZxSqZQkSZqm999//wsvvPDwww/PmTNH0k3KN7nD1hSb3Ak4ADPJcRzP8wzDKJfLcnOG++67L8uyYlP9Qw89tH///kqlIvtVZYOqbdvS8ZvnOQEH4BaVJInclEpWUVetWjU4OFitVn3fL5VKa9as+fjjj8vlshyUJENaOUpEEpA2EQC3+hxckiSlUunuu+8eHBx0XdfzPF3XV6xYcejQIcuynDbpCJEcLPaoapomk3E3b4ha3IpB6k9Z9O3ECwGY7Yz26SCO44RheP78eUkP27YXLFhw7NgxiREZlso9nmVfl2zIL44Nv+GTd+iKu7u7XdeVsjNJknq9LtOHAHCNLMuCINiwYUMcx5VKJW3r6ekZHh6WrfjNZrPVasVxLLNvcqBIFEVpmpZKJc/ztBvoSAWXpqnneVEUyXXIRCD3ZAAwWZ7nruvu37//zJkz9XpdDvW1LKu3t3fnzp2e58kosFarhWEYRVHcJoeY1+v1l19+edWqVdrNDDi5JURxNoCcVy4ThAAwkZxOvnfvXjnG0jRN6Q755Zdfrly5Im1uRWevnC+SpmmtVsvzvNVqdXV17du3r7e3V7tpQ1Q556Rer0t5WalUwjAsDkIBgILMrC1atMgwDBmEymh0dHTUNE3pDpFOYDklSdYWvDbHcS5dulSr1bSb3AdnWZbneTJCDoJg6mY8ALetOI5lhUF6PuSWWmmaViqVIAjkpvdSKknGyZemacp+Vbn3842evCOh02q11q1bNzQ0ND4+Pm/evLGxsdWrV0tZ14mXAzB7OY4TBMGSJUvkHvWNRkNOFtF1Xe6zXNyZTyqn4sxLOdf3gQcemCJY/i75OnHRcRw3Gg3f97u6ukZHR/v6+opRNABMvn/8hQsXZKZeajoZ9knLSBAExZb7YvOp3Khh4cKFUwwQOxVwADDjKKkAKIuAA6AsAg6Asgg4AMoi4AAoi4ADoCwCDoCyCDgAyiLgACiLgAOgLAIOgLIIOADKIuAAKIuAA6AsAg6Asgg4AMoi4AAoi4ADoCwCDoCyCDgAyiLgACiLgAOgLAIOgLIIOADKIuAAKIuAA6AsAg6Asgg4AMoi4AAoy9JmrbxN0zS9baYvB+i4LMvkE8OgNPmv6JIRs0We51mWXZNoeZ6TcQBmfcAVcTb5mzN0OUAH6frf/0PTNM2yzGiT93jbtvl3VzPgAEDlOTiZfZNoNgxD3uVIaqgnSRKzbYrhCxSs4IrlBX7ruH0kSSKfWNasLE1uvtkXcBPfxLIsS5JElpZ4Z4OS8jxPksQwDMdxTNPk7/x/Yt06tdiNyu8kSYr3K0m0ZrPpeZ7v+41Go9lsRlHUarWKNzdAJUmSxHFsGEZPT8+dd95Zq9V0Xe/v75/YICVTNPSO3KIBJ9FWdHvoui5vWXmem6YZBEGtVkvTdGRkZKjt999/v3Dhgud5jUYjCAK7baZ/DmD6pWnqOI788eu6Pm/ePNM0x8bGnnrqqb6+vnvuuUfXdfmfkqapbdvUd7fiEDVNU3n/kR43wzBarZYsitu23Wg0jh49Oj4+/mdbo9GYO3fuwMDA8uXLFy5c2N3dXa/XCTgoSdd10zSTJAmCII7jS5cunTx58vjx4xcvXly0aNHGjRsHBgbuvfdey7KSJCHgbsWAy7JM0k1izjTNNE0Nw0iSxHGcn3766fDhw5988smqVasWL168bt261atXl8vlWq3mOE5x8VIAzuwPAky7NE2LwU3xXyMIgqtXrx48ePC7775zXff555/v7+/P89x1XX4F15j5XCjKN/nlGYYRhqFt21evXj1w4MChQ4eWLFnS19f3yCOPdHd3V6tVTdNk1bwY25JuUFWSJDKmuaZrJIqiJEmGhobeeecdTdOeeOKJtWvXTnwkbpWAKxZGsyyL49g0zTiOjx8//vnnn4+MjKxZs2bLli1z5861LEseI29lxerEdTdvAcqQIc7Ev3kZsqRt586d++CDD0ZHR5955pm1a9cWHXPQ2v4FbdYaD+1krqcAAAAASUVORK5CYII=",
+      "image_path": "/Users/niranjan/Downloads/AMMO-Transformation-main/data/uploads/part_crops_40813ca2/p02_001_table_top.png",
+      "source_page": 2
+    },
+    {
+      "part_label": "SILVER PLATE",
+      "used_in_steps": [],
+      "inferred_function": "Insufficient information to determine usage or function",
+      "function_rationale": "No instruction steps are provided to indicate how the part is used, what it interacts with, or its role in a procedure.",
+      "one_sentence_summary": "A flat, thin rectangular plate with rounded corners and a smooth surface; large relative size with no visible holes or protrusions in the current view.",
+      "shape": "rectangle with rounded corners",
+      "size_relative": "large relative to other parts in the diagram",
+      "thickness_or_depth": "thin",
+      "edge_profile": "rounded corners",
+      "surface_texture": "smooth, flat surface",
+      "protrusions": [
+        "none",
+        "none visible"
+      ],
+      "grooves_slots_holes": [
+        "none visible"
+      ],
+      "symmetry": "symmetric rectangle",
+      "orientation_cues": [],
+      "distinctive_landmarks": [
+        "flat rectangular plate with rounded corners; smooth surface; no holes or protrusions visible in the current crop"
+      ],
+      "distinguish_from_similar_parts": [],
+      "action_relevant_notes": [
+        "Note: only partial view; small features (e.g., holes) may be hidden in the current crop; treat as flat plate unless other parts indicate otherwise."
+      ],
+      "uncertainties": [
+        "only partial view of the plate; possible small features (e.g., holes) may not be visible in the current crop"
+      ],
+      "bbox_xyxy": [
+        288,
+        473,
+        498,
+        673
+      ],
+      "localization_confidence": "high",
+      "image": "data:image/png;base64,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",
+      "image_path": "/Users/niranjan/Downloads/AMMO-Transformation-main/data/uploads/part_crops_40813ca2/p02_002_silver_plate.png",
+      "source_page": 2
+    },
+    {
+      "part_label": "LEG",
+      "used_in_steps": [],
+      "inferred_function": "Provides vertical support and stability as a leg or support member of a larger assembly",
+      "function_rationale": "The label 'LEG' indicates a leg-like component whose primary role is to bear load and support the structure, enabling upright stance or elevation within the device.",
+      "one_sentence_summary": "A tall, cylindrical vertical member with a mounting bracket and short base plate that attaches to a surface to provide support and stability.",
+      "shape": "Tall cylindrical leg with an attached mounting bracket and base plate",
+      "size_relative": "Leg is tall relative to its base plate and bracket; base plate is comparatively short",
+      "thickness_or_depth": "Moderate wall thickness for the cylindrical leg; brackets and base plate are thinner flat sections",
+      "edge_profile": "Leg edge is rounded cylindrical; bracket and base plate edges are flat",
+      "surface_texture": "Cylindrical leg surface is smooth; bracket and base plate surfaces are flat and likely machined",
+      "protrusions": [
+        "bolts/fastener holes visible on bracket and base plate",
+        "angled brace components as part of the bracket"
+      ],
+      "grooves_slots_holes": [
+        "holes along the base plate (likely for screws)",
+        "holes along the bracket (for attachment)"
+      ],
+      "symmetry": "Bracket appears mounted to one side; overall may be asymmetric due to bracket attachment",
+      "orientation_cues": [],
+      "distinctive_landmarks": [
+        "tall cylindrical leg with an attached mounting bracket and short base plate",
+        "visible mounting holes along both base plate and bracket",
+        "angled brace components forming part of the bracket"
+      ],
+      "distinguish_from_similar_parts": [
+        {
+          "other_part": "FOOT",
+          "differences": [
+            "FOOT would be lower-profile and flat or curved contact surface for resting on a surface",
+            "LEG is vertical cylindrical member; includes a mounting bracket and base plate for attachment"
+          ]
+        },
+        {
+          "other_part": "STRUT",
+          "differences": [
+            "STRUT is typically a straight, slender member with less or no mounting bracket",
+            "LEG has a prominent base plate and bracket with mounting holes for surface attachment"
+          ]
+        },
+        {
+          "other_part": "LEG_BRACE",
+          "differences": [
+            "LEG_BRACE connects or reinforces a leg, not a standalone vertical support",
+            "LEG includes a dedicated base plate and mounting holes for attachment to a surface"
+          ]
+        }
+      ],
+      "action_relevant_notes": [
+        "When locating for setup, identify the side with the bracket as the attachment orientation",
+        "Use base plate holes to align with screws; bracket holes provide additional attachment points",
+        "Handle with awareness of the cylindrical leg's smooth surface for grip, and the flat bracket/base surfaces for contact",
+        "Uncertainty remains about exact hole count and spacing; plan for minor adjustments during installation"
+      ],
+      "uncertainties": [
+        "Exact hole counts and spacing are not fully clear from the image",
+        "Diameter of the leg and thickness of the base plate are approximate based on visual cues"
+      ],
+      "bbox_xyxy": [
+        658,
+        413,
+        898,
+        573
+      ],
+      "localization_confidence": "high",
+      "image": "data:image/png;base64,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",
+      "image_path": "/Users/niranjan/Downloads/AMMO-Transformation-main/data/uploads/part_crops_40813ca2/p02_003_leg.png",
+      "source_page": 2
+    },
+    {
+      "part_label": "SUPPORT BAR",
+      "used_in_steps": [],
+      "inferred_function": "Provides structural support or stabilization for adjacent components, acting as a brace or anchoring element.",
+      "function_rationale": "With no concrete instruction steps to reference, a 'support bar' commonly serves to brace or stabilize parts, preventing movement or sagging and maintaining alignment.",
+      "one_sentence_summary": "A long, slender rectangular bar with holes along its length used to brace or stabilize adjacent parts.",
+      "shape": "rectangular bar",
+      "size_relative": "long and slender",
+      "thickness_or_depth": "thin",
+      "edge_profile": "flat edges with rectangular cross-section",
+      "surface_texture": "flat top and bottom surfaces",
+      "protrusions": [
+        "none"
+      ],
+      "grooves_slots_holes": [
+        "multiple circular holes along length (approx. 5)"
+      ],
+      "symmetry": "symmetrical along length",
+      "orientation_cues": [
+        "holes oriented along the length; bar likely installed horizontally or along a span between components"
+      ],
+      "distinctive_landmarks": [
+        "elongated rectangular form with evenly spaced holes along its length"
+      ],
+      "distinguish_from_similar_parts": [
+        {
+          "other_part": "bracket",
+          "differences": [
+            "bracket often includes mounting flanges or right-angle features; this part is a slender bar with holes running along length and no flange"
+          ]
+        },
+        {
+          "other_part": "brace",
+          "differences": [
+            "brace implies a diagonal or angular support component; this is a straight, elongated member with transverse holes"
+          ]
+        },
+        {
+          "other_part": "support rod",
+          "differences": [
+            "support rod is typically circular cross-section; this part is rectangular cross-section with flat faces"
+          ]
+        },
+        {
+          "other_part": "stiffener",
+          "differences": [
+            "stiffener usually reinforces a panel edge; this piece has through-holes along its length for attachment"
+          ]
+        }
+      ],
+      "action_relevant_notes": [
+        "To identify by touch: feel a long, thin rectangular prism with flat top/bottom faces and flat edges; presence of several circular holes along the length is a key tactile cue.",
+        "When handling, locate the flat surfaces first, then feel for the row of circular holes; align holes with corresponding fasteners or pivots as needed."
+      ],
+      "uncertainties": [
+        "Exact number of holes unclear from crop (approx. 5)",
+        "Hole spacing and diameter not precisely measurable from image"
+      ],
+      "bbox_xyxy": [
+        998,
+        363,
+        1138,
+        433
+      ],
+      "localization_confidence": "high",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKIAAABQCAIAAAAVyjleAAAEEklEQVR4nO2av0orQRSHZ3ZmdhNQY0QhQowWgmKjCKKdlYKNAX0ACwtfQLAT7Oz0BawV8iJ24jPYWAmKkGyyM3NJjgy5SZRbJPHC+X1V/uxuJN+c3zmzUSqlzs/PhRC3t7fee2vt4eHhzc3N4uJis9mM49g5d3d3V6vVpJTOuTiOm82m1tp7L/5GShlFkRCi2WwKIYwxl5eXW1tbSinnnOxAR15fX19dXTUaDSllqVR6fn6em5vz3tMBzjm6DhgWWgjx8PAwNTXlOhSLxWq1WiqVvPfOOTro9PT06OhIa00Cgv6eawWRzjlaBPl8HsL+B9rmXl5eqBC99+vr6wcHB+QmSRIhBHmdnp6mE4Lm/mr2HYQQSikpJT0m8T1PwZjRURTRV2+tzeVyZ2dnZJQilMLWGEOe6Mg4jgfaooXSrZZepxNpEUDzr2m21pKD3d3d/f19Em+tpQbsnKPm6r2PoojE9yd2CO2Q9vS0uyv3BwAYDzqOYxqFvPcnJyeTk5NUlOSG0ptsKaVarZZSis4c2HS756zwCnXrYBoFPX60UipIXVhYCHnbHbxvb2/39/dpmhpjwnjVT+jNtAiklNVqdWlpKWgOHRqMGZ0kycfHh5RSdRhYarVa7eLiYmBQd0ORTotG6/YCWllZKZfLWutwWZTyr/C1/Q1TkrU2xHLg9fWVSrnRaHjvtW5vw/qtd89faZpKKRuNRujTiOtfRFtrw52N70pNa10oFLz3SZJEUdRqtWgc60/scJEsy6idoyX/D+ieTjzQ9PHx8c7Oju2Qz+ezDv0jWNBMqeCc29jYoNLvPga5/TsbKipEa22WZQMdrK6uLi8v030PulnWI4/oOTdkOG2xvksLWB8D7eGI0FrX6/Ufcpse0KT2L5fuHrvCKaHWyTq9RessLAuIH4nmcIdkYI0OHWttkiRZllHnpl37GD6XM1+JTfVqjKGJbHRQ/w5twlprjOmJbuyth067jpVStOX9YdgeIlLKer0+MTERnqKaR83XtCylTNP0uxFsuHjvjTGfn59hy97z7qj/AIZEa2trMzMz8/PzlUqlWCyO4Vt2zu3t7ZXL5UqlMjs7WygU8Jv0qJFPT0/v7+8U15ubm7lcbgxfurX28fFRCNFqtbTW29vbxpiwpcbeeujgtwQW4F+uWADNLIBmFkAzC6CZBdDMAmhmATSzAJpZAM0sgGYWQDMLoJkF0MwCaGYBNLMAmlkAzSyAZhZAMwugmQXQzAJoZgE0swCaWQDNLIBmFkAzC6CZBdDMAmhmATSzAJpZAM0sgGYWQDMLoJkF0MwCaGYBNLMAmlkAzSyAZhZAMwugmQXQzAJoZgE0swCaWQDNLIBmFkAzC6CZBdDMAmhmATSzAJpZAM0sgGYWQLPgwB80NPpikljubQAAAABJRU5ErkJggg==",
+      "image_path": "/Users/niranjan/Downloads/AMMO-Transformation-main/data/uploads/part_crops_40813ca2/p02_004_support_bar.png",
+      "source_page": 2
+    }
+  ],
+  "page_summaries": [
+    {
+      "page_number": 1,
+      "summary": "Laminate Activity Table with standard or short adjustable legs; assembly instructions and safety warnings are provided."
+    },
+    {
+      "page_number": 2,
+      "summary": "This page shows steps to assemble a table using the table top, silver plate, legs, and a support bar."
+    }
+  ]
+}

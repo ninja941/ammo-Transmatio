@@ -1,0 +1,253 @@
+{
+  "document_type": "manual",
+  "page_count_processed": 1,
+  "page_summary": "Advice for assembling a 3-seat sofa, covering tool usage, teamwork, assembly sequence, and using correct hardware from each box.",
+  "instruction_steps": [
+    {
+      "step_number": 1,
+      "text": "Power tools are suggested to be used during installation.",
+      "parts_mentioned": []
+    },
+    {
+      "step_number": 2,
+      "text": "More than one person may be required to assemble this product.",
+      "parts_mentioned": []
+    },
+    {
+      "step_number": 3,
+      "text": "The best advice is not tightening up any screws until the whole piece is assembled. If having difficulty aligning holes, loosen the screws already installed and readjust the armrest.",
+      "parts_mentioned": [
+        "Screws",
+        "Armrest"
+      ]
+    },
+    {
+      "step_number": 4,
+      "text": "To avoid mess-up or mismatch, please use the hardware of each box to install the furniture in the same box.",
+      "parts_mentioned": [
+        "Hardware"
+      ]
+    }
+  ],
+  "parts_involved": [
+    "Screws",
+    "Armrest",
+    "Hardware"
+  ],
+  "inventory": [
+    {
+      "part_label": "Screws",
+      "used_in_steps": [
+        1,
+        3
+      ],
+      "inferred_function": "Fasten and secure furniture components together during assembly, particularly aligning and attaching parts (e.g., armrests) as holes align.",
+      "function_rationale": "Steps indicate use of power tools for installation, with a pattern of not tightening fully until the whole piece is assembled and loosening screws to adjust alignment. This identifies screws as the primary fasteners that hold pieces together and require correct alignment before final tightening.",
+      "one_sentence_summary": "Screws are the primary temporary fasteners used to align and join pieces before final tightening, not always visible in the current view.",
+      "shape": "Not determinable from the provided crop; the visible geometry is unavailable.",
+      "size_relative": "Not observable from the crop",
+      "thickness_or_depth": "Not observable from the crop",
+      "edge_profile": "Not observable from the crop",
+      "surface_texture": "Not observable from the crop",
+      "protrusions": [
+        "Heads (potentially slotted or Phillips) on one end for driving",
+        "Threaded shaft to engage holes"
+      ],
+      "grooves_slots_holes": [
+        "Holes or tapped inserts may be present in mating pieces to receive the screw thread",
+        "Screw head interface (slot/drive) may be encountered during installation"
+      ],
+      "symmetry": "Not observable",
+      "orientation_cues": [
+        "Typical orientation is with a driving head accessible from the exterior face of the assembled pieces; alignment of holes is checked before tightening",
+        "For tactile checks, feel for resistance when turning the screw into a pre-aligned hole"
+      ],
+      "distinctive_landmarks": [
+        "Head recess or drive pattern (Phillips, slotted, Torx, etc.)",
+        "Threaded shaft length that extends into the mating piece"
+      ],
+      "distinguish_from_similar_parts": [
+        {
+          "other_part": "Bolts",
+          "differences": [
+            "Bolts usually require nuts or threaded receptacles and may involve longer shafts that extend through both pieces; heads may have different drive types and a hex or square profile for a spanner/wrench.",
+            "Tactile cue: presence of a nut or through-hole assembly rather than a threaded blind hole."
+          ]
+        },
+        {
+          "other_part": "Nuts",
+          "differences": [
+            "Nuts are fasteners that partner with bolts; they are not driven into a hole from one side and are not a threaded shaft intended to be driven by a screwdriver/driver.",
+            "Tactile cue: you would feel a separate hexagonal piece threaded onto a bolt rather than a screw threading into a hole."
+          ]
+        },
+        {
+          "other_part": "Wood dowels",
+          "differences": [
+            "Dowels are smooth cylindrical pegs pressed or hammered into holes; no driving head or threading, and no external driving surface for a screwdriver/bit."
+          ]
+        },
+        {
+          "other_part": "Nails",
+          "differences": [
+            "Nails are driven in with hammer or nail gun and do not typically have a head designed for a screwdriver or power drill; visible driving marks and different head type.",
+            "Tactile cue: typically a blunt, non-threaded fastener with a smooth shank vs. screw’s threaded shaft."
+          ]
+        },
+        {
+          "other_part": "Hardware (generic fasteners)",
+          "differences": [
+            "General category may include varied drives and heads; screws specifically have threaded shafts and mating holes; selection depends on hole alignment and driving torque."
+          ]
+        }
+      ],
+      "action_relevant_notes": [
+        "When present, check texture of the head with fingertips to determine drive type (slotted, Phillips, etc.).",
+        "Do not rely on visible shapes in the crop; use tactile exploration of holes in the mating pieces to confirm alignment before driving.",
+        "If a screw is loosened for alignment, reproduce the same alignment after re-seating before final tightening."
+      ],
+      "uncertainties": [
+        "The crop provides no visible screws; all shape/size cues are not observable from this image alone.",
+        "Assumptions about head drive type and length are not confirmed without tactile inspection of the actual screws in-hand."
+      ],
+      "bbox_xyxy": [
+        320,
+        640,
+        520,
+        740
+      ],
+      "localization_confidence": "medium",
+      "image": "data:image/png;base64,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",
+      "image_path": "/Users/niranjan/Downloads/AMMO-Transformation-main/data/uploads/part_crops_0ae8ef54/01_screws.png"
+    },
+    {
+      "part_label": "Armrest",
+      "used_in_steps": [
+        3
+      ],
+      "inferred_function": "Provides lateral arm support as part of a chair/sofa-type assembly.",
+      "function_rationale": "The instructions discuss aligning holes and screws during installation and specifically reference the armrest when describing tightening sequence, indicating it is a structural component that attaches to a larger furniture frame to support a user's arm.",
+      "one_sentence_summary": "Curved tubular armrest with a smooth outer edge and flat inner mounting surface, symmetric left/right, used to support the arm along the sofa side.",
+      "shape": "curved tubular armrest with rounded outer edge and flat mounting surface at the inner side",
+      "size_relative": "extends along the side of the sofa, roughly same height as seat back, length comparable to one seat width",
+      "thickness_or_depth": "moderate tubing thickness",
+      "edge_profile": "smooth rounded outer edge; inner edge transitions to chair frame",
+      "surface_texture": "likely smooth and finished surface (described as curved surface with mounting area)",
+      "protrusions": [
+        "mounting junction to sofa frame (where armrest connects to seat/back)"
+      ],
+      "grooves_slots_holes": [],
+      "symmetry": "left and right armrests are symmetric",
+      "orientation_cues": [
+        "inner mounting surface faces toward the chair frame; outer curved surface remains outward"
+      ],
+      "distinctive_landmarks": [
+        "continuous curved tubular shape across the armrest; smooth outer edge; flat mounting surface on the inner side"
+      ],
+      "distinguish_from_similar_parts": [
+        {
+          "other_part": "Other armrests",
+          "differences": [
+            "shape may be continuous curved tubular form vs varying profiles; may differ in curvature completeness and mounting interface"
+          ]
+        },
+        {
+          "other_part": "Armrest pad",
+          "differences": [
+            "Armrest pad is a soft top piece not a structural curved support; lacks mounting junction to the frame"
+          ]
+        },
+        {
+          "other_part": "Arm support",
+          "differences": [
+            "Arm support may refer to a separate ergonomic component not forming the main side rail; armrest here includes mounting surface and frame connection"
+          ]
+        }
+      ],
+      "action_relevant_notes": [
+        "Identify by curved tubular form and flat inner mounting face; feel for the mounting junction/passage where screws pass into the frame",
+        "Use with mounting holes alignment during installation as described in step 3; align inner surface toward frame before securing."
+      ],
+      "uncertainties": [
+        "Exact mounting method and connection details are not fully visible in the crop; dimensions are inferred from overall sofa scale"
+      ],
+      "bbox_xyxy": [
+        980,
+        980,
+        1130,
+        1120
+      ],
+      "localization_confidence": "high",
+      "image": "data:image/png;base64,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",
+      "image_path": "/Users/niranjan/Downloads/AMMO-Transformation-main/data/uploads/part_crops_0ae8ef54/02_armrest.png"
+    },
+    {
+      "part_label": "Hardware",
+      "used_in_steps": [
+        3,
+        4
+      ],
+      "inferred_function": "A bundled fastener kit used to secure furniture components during assembly.",
+      "function_rationale": "Step 3 references screws and an armrest, indicating fasteners are required to attach parts. Step 4 cautions using hardware from the same box, reinforcing that 'Hardware' serves as the fasteners (like screws/nuts) needed to assemble the product.",
+      "one_sentence_summary": "Compact set of slender cylindrical legs with flat feet, used as the furniture's floor-contact hardware in assembly.",
+      "shape": "Short slender cylindrical legs with flat feet that contact the floor",
+      "size_relative": "Significantly smaller than sofa components; legs are proportionally short",
+      "thickness_or_depth": "Moderate cylindrical diameter",
+      "edge_profile": "Rounded cylindrical edges; ends are flat where feet contact floor",
+      "surface_texture": "Smooth, uniform surface",
+      "protrusions": [
+        "Feet pads on bottom of legs; possible attachment points to sofa frame"
+      ],
+      "grooves_slots_holes": [],
+      "symmetry": "Two legs visible, symmetrically oriented about sofa center; no obvious asymmetry observed",
+      "orientation_cues": [
+        "Legs oriented vertically with feet flat on the floor; upper portions connect toward sofa frame (not fully visible)"
+      ],
+      "distinctive_landmarks": [
+        "Bottom feet pads; cylindrical leg shape; flat-foot contact surfaces"
+      ],
+      "distinguish_from_similar_parts": [
+        {
+          "other_part": "Screws",
+          "differences": [
+            "Are not small threaded fasteners with heads; instead they are larger cylindrical legs with flat feet; no visible threading or heads in the visible portion"
+          ]
+        },
+        {
+          "other_part": "Bolts",
+          "differences": [
+            "Similar to screws in function but shape is leg-like with feet; lacks bolt-like heads or threaded shafts in view"
+          ]
+        },
+        {
+          "other_part": "Nuts",
+          "differences": [
+            "No hex/round nut shapes; no threaded interior seen; appears as furniture legs rather than fastener components"
+          ]
+        },
+        {
+          "other_part": "Fasteners (general)",
+          "differences": [
+            "This item is a leg assembly with feet, not a single fastener; contact surfaces and vertical form are distinct from typical screws/nuts/bolts"
+          ]
+        }
+      ],
+      "action_relevant_notes": [
+        "Handle with care to avoid bending the legs; align legs so feet sit flat on the floor during attachment"
+      ],
+      "uncertainties": [
+        "Only partial view of hardware shown (two legs); exact quantity and attachment method not visible",
+        "Diameter and exact length of legs cannot be measured from this crop"
+      ],
+      "bbox_xyxy": [
+        540,
+        950,
+        980,
+        1120
+      ],
+      "localization_confidence": "low",
+      "image": "data:image/png;base64,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",
+      "image_path": "/Users/niranjan/Downloads/AMMO-Transformation-main/data/uploads/part_crops_0ae8ef54/03_hardware.png"
+    }
+  ]
+}
